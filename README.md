@@ -9,8 +9,9 @@ This project is a starting point for a Flutter application.
 A few resources to get you started if this is your first Flutter project:
 
 - A full reorderable grid implemention similar to Flutters Reorderable_List. with full ReorderableGridView, ReorderableGrid and SliverReorderableGrid implementations
-
-< img src="https://raw.githubusercontent.com/casvanluijtelaar/reorderable_grid/master/assets/example.gif">
+<p align="center">
+  <img src="https://github.com/casvanluijtelaar/reorderable_grid/blob/master/assets/example.gif?raw=true" alt="gif showing basic usage" width="600"/>
+<p\>
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
