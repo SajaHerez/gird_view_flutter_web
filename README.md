@@ -10,7 +10,7 @@ A few resources to get you started if this is your first Flutter project:
 
 - A full reorderable grid implemention similar to Flutters Reorderable_List. with full ReorderableGridView, ReorderableGrid and SliverReorderableGrid implementations
 
-https://raw.githubusercontent.com/casvanluijtelaar/reorderable_grid/master/assets/example.gif
+<https://raw.githubusercontent.com/casvanluijtelaar/reorderable_grid/master/assets/example.gif>
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
